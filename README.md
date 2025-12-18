@@ -37,10 +37,22 @@ I focus on **automation, reliability, and cloud-native deployments**, helping te
 
 ---
 
-## 🌐 Portfolio & Profiles
-🔗 **Portfolio**: https://www.rahulswargam.online  
-💼 **LinkedIn**: https://www.linkedin.com/in/rahulswargam  
-📧 **Email**: swargamrahul@gmail.com  
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.rahulswargam.online" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/domain.png" alt="Portfolio"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/rahulswargam" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/0A66C2/linkedin.png" alt="LinkedIn"/>
+  </a>
+
+  <a href="mailto:swargamrahul@gmail.com">
+    <img src="https://img.icons8.com/ios-filled/50/EA4335/gmail.png" alt="Email"/>
+  </a>
+</p>
+
 
 ---
 
