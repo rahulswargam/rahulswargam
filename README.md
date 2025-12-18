@@ -1,81 +1,47 @@
-<p align="center">
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3Dgradient%26height%3D200%26section%3Dheader%26text%3DRahul%2520Swargam%26fontSize%3D70%26animation%3DfadeIn" />
-</p>
+# Hi, I'm Rahul Swargam 👋
 
-<h3 align="center">DevOps Engineer | AWS Specialist | Automation Enthusiast</h3>
+🚀 **DevOps Engineer | AWS Cloud | CI/CD | Kubernetes**  
+📍 Hyderabad, India
 
-<p align="center">
-<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Drahulswargam%26label%3DProfile%2520Views%26color%3D0e75b6%26style%3Dflat-square" alt="views" />
-</p>
+I’m a **DevOps Engineer with 3+ years of experience** building and operating **scalable, secure AWS-based infrastructure**.  
+I focus on **automation, reliability, and cloud-native deployments**, helping teams ship faster and operate more efficiently.
 
-<p align="center">
-<a href="https://www.google.com/search?q=https://www.linkedin.com/in/rahulswargam"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" /></a>
-<a href="http://www.rahulswargam.online"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Portfolio-FF5722%3Fstyle%3Dfor-the-badge%26logo%3Dgoogle-chrome%26logoColor%3Dwhite" /></a>
-<a href="mailto:swargamrahul@gmail.com"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" /></a>
-</p>
+---
 
-🚀 About Me
+## 🛠 Skills & Technologies
 
-Experienced DevOps Engineer with over 3 years of expertise in designing, automating, and maintaining AWS cloud platforms. I specialize in Infrastructure as Code (IaC), building robust CI/CD pipelines, and managing containerized applications at scale.
+### ☁️ Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
-🌍 Based in Hyderabad, India
+### 🔄 CI/CD & DevOps
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-✉️ Contact: swargamrahul@gmail.com
+### 🐳 Containers & Orchestration
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-⚡ Fun fact: I spend hours automating tasks that take 5 minutes, just to save 5 minutes!
+### 📊 Monitoring & Logging
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![ELK](https://img.shields.io/badge/ELK-005571?style=for-the-badge&logo=elastic&logoColor=white)
 
-🛠️ Professional Tools & Skills
+### 💻 Programming & OS
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-☁️ Cloud Computing & Infrastructure
+---
 
-Amazon Web Services (EC2, S3, RDS, Lambda, VPC, Route53)
+## 🌐 Portfolio & Profiles
+🔗 **Portfolio**: https://www.rahulswargam.online  
+💼 **LinkedIn**: https://www.linkedin.com/in/rahulswargam  
+📧 **Email**: swargamrahul@gmail.com  
 
-Infrastructure as Code
+---
 
-Configuration Management
-
-Linux Administration (Ubuntu, CentOS, RHEL)
-
-🔄 CI/CD & Automation
-
-Jenkins Automation Server
-
-GitLab CI/CD
-
-GitHub Automation
-
-🐳 Containers & Orchestration
-
-Containerization
-
-Kubernetes Orchestration
-
-📊 Monitoring & Logging
-
-Prometheus Monitoring
-
-Data Visualization
-
-ELK Stack Logging
-
-🐍 Programming & Web Servers
-
-Python Scripting
-
-Shell Scripting
-
-Nginx Web Server
-
-Apache HTTP Server
-
-🏆 Professional Certifications
-
-🎖️ AWS Certified Solutions Architect
-
-🎖️ AWS Certified DevOps Engineer
-
-🎖️ Python Professional DevOps Engineer Certified
-
-<p align="center">
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3Dgradient%26height%3D100%26section%3Dfooter" />
-</p>
+⭐ *Explore my repositories for real-world DevOps, cloud automation, and CI/CD implementations.*
