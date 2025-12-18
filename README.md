@@ -40,19 +40,27 @@ I focus on **automation, reliability, and cloud-native deployments**, helping te
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://www.rahulswargam.online" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Portfolio" width="40" height="40"/>
+  <a href="https://www.rahulswargam.online" target="_blank" style="margin-right: 20px;">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/internetexplorer.svg"
+         alt="Portfolio"
+         width="36"
+         height="36" />
   </a>
 
-  <a href="https://www.linkedin.com/in/rahulswargam" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  <a href="https://www.linkedin.com/in/rahulswargam" target="_blank" style="margin-right: 20px;">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg"
+         alt="LinkedIn"
+         width="36"
+         height="36" />
   </a>
 
   <a href="mailto:swargamrahul@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg"
+         alt="Email"
+         width="36"
+         height="36" />
   </a>
 </p>
-
 
 ---
 
