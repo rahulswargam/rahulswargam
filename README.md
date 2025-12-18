@@ -36,25 +36,28 @@ I focus on **automation, reliability, and cloud-native deployments**, helping te
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
+## 🌐 Connect With Me
+
 <p align="center">
   <a href="https://www.rahulswargam.online" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/internetexplorer.svg"
-         width="38"
+    <img src="https://img.icons8.com/color/48/domain.png"
+         alt="Portfolio Website"
          style="margin: 0 18px;" />
   </a>
 
   <a href="https://www.linkedin.com/in/rahulswargam" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg"
-         width="38"
+    <img src="https://img.icons8.com/color/48/linkedin.png"
+         alt="LinkedIn"
          style="margin: 0 18px;" />
   </a>
 
   <a href="mailto:swargamrahul@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg"
-         width="38"
+    <img src="https://img.icons8.com/color/48/gmail-new.png"
+         alt="Email"
          style="margin: 0 18px;" />
   </a>
 </p>
+
 ---
 
 ⭐ *Explore my repositories for real-world DevOps, cloud automation, and CI/CD implementations.*
