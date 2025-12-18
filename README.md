@@ -36,27 +36,12 @@ I focus on **automation, reliability, and cloud-native deployments**, helping te
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
+
 ## 🌐 Connect With Me
 
-<p align="center">
-  <a href="https://www.rahulswargam.online" target="_blank">
-    <img src="https://img.icons8.com/color/48/domain.png"
-         alt="Portfolio Website"
-         style="margin: 0 18px;" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/rahulswargam" target="_blank">
-    <img src="https://img.icons8.com/color/48/linkedin.png"
-         alt="LinkedIn"
-         style="margin: 0 18px;" />
-  </a>
-
-  <a href="mailto:swargamrahul@gmail.com">
-    <img src="https://img.icons8.com/color/48/gmail-new.png"
-         alt="Email"
-         style="margin: 0 18px;" />
-  </a>
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-0A1AFF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.rahulswargam.online)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rahul%20Swargam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahulswargam)
+[![Email](https://img.shields.io/badge/Email-swargamrahul%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swargamrahul@gmail.com)
 
 ---
 
