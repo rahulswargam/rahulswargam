@@ -41,15 +41,15 @@ I focus on **automation, reliability, and cloud-native deployments**, helping te
 
 <p align="left">
   <a href="https://www.rahulswargam.online" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/domain.png" alt="Portfolio"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Portfolio" width="40" height="40"/>
   </a>
 
   <a href="https://www.linkedin.com/in/rahulswargam" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/0A66C2/linkedin.png" alt="LinkedIn"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
 
   <a href="mailto:swargamrahul@gmail.com">
-    <img src="https://img.icons8.com/ios-filled/50/EA4335/gmail.png" alt="Email"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" width="40" height="40"/>
   </a>
 </p>
 
