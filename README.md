@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
-<a href="https://www.google.com/search?q=https://www.linkedin.com/in/rahulswargam" target="blank"><img align="center" src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="rahulswargam" /></a>
-<a href="http://www.rahulswargam.online" target="blank"><img align="center" src="https://www.google.com/search?q=https://img.shields.io/badge/Portfolio-FF5722%3Fstyle%3Dfor-the-badge%26logo%3Dgoogle-chrome%26logoColor%3Dwhite" alt="rahulswargam" /></a>
-<a href="mailto:swargamrahul@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="rahulswargam" /></a>
+<a href="https://www.google.com/search?q=https://www.linkedin.com/in/rahulswargam" target="blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn" /></a>
+<a href="http://www.rahulswargam.online" target="blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Portfolio-FF5722%3Fstyle%3Dfor-the-badge%26logo%3Dgoogle-chrome%26logoColor%3Dwhite" alt="Portfolio" /></a>
+<a href="mailto:swargamrahul@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
 
 🚀 About Me
@@ -25,38 +25,11 @@ Experienced DevOps Engineer with over 3 years of expertise in designing, automat
 
 ☁️ Cloud & Infrastructure
 
-<p align="left">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Daws,terraform,ansible,linux,ubuntu" />
-</p>
-
 🔄 CI/CD & Containers
-
-<p align="left">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Djenkins,gitlab,githubactions,docker,kubernetes,git" />
-</p>
 
 📊 Monitoring & Web Servers
 
-<p align="left">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dprometheus,grafana,elasticsearch,nginx,apache" />
-</p>
-
 🐍 Programming & Scripting
-
-<p align="left">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpython,bash" />
-</p>
-
-📊 My GitHub Stats
-
-<p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Drahulswargam%26show_icons%3Dtrue%26theme%3Dradical" alt="Rahul's GitHub Stats" height="190px" />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Drahulswargam%26layout%3Dcompact%26theme%3Dradical" alt="Top Languages" height="190px" />
-</p>
-
-<p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3Drahulswargam%26theme%3Dtokyo-night%26bg_color%3D0D1117%26hide_border%3Dtrue%26color%3D70A5FD" width="100%" />
-</p>
 
 🏆 Certifications
 
@@ -69,8 +42,12 @@ Experienced DevOps Engineer with over 3 years of expertise in designing, automat
 🤝 Let's Connect!
 
 <p align="left">
-<a href="https://www.google.com/search?q=https://linkedin.com/in/rahulswargam" target="blank"><img align="center" src="https://www.google.com/search?q=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahulswargam" height="30" width="40" /></a>
-<a href="https://www.rahulswargam.online" target="blank"><img align="center" src="https://www.google.com/search?q=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/website.svg" alt="rahulswargam" height="30" width="40" /></a>
+<a href="https://www.google.com/search?q=https://linkedin.com/in/rahulswargam" target="blank">
+<img align="center" src="https://www.google.com/search?q=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+</a>
+<a href="https://www.rahulswargam.online" target="blank">
+<img align="center" src="https://www.google.com/search?q=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/website.svg" alt="Website" height="30" width="40" />
+</a>
 </p>
 
 <p align="center">
