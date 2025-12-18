@@ -23,59 +23,29 @@ Experienced DevOps Engineer with over 3 years of expertise in designing, automat
 
 🛠️ Technical Skills
 
+☁️ Cloud & Infrastructure
+
 <p align="left">
-<a href="https://skillicons.dev">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Daws,terraform,ansible,docker,kubernetes,jenkins,gitlab,githubactions,git,linux,ubuntu,python,bash,nginx,apache,prometheus,grafana,elasticsearch" />
-</a>
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Daws,terraform,ansible,linux,ubuntu" />
 </p>
 
-Detailed Stack Breakdown:
+🔄 CI/CD & Containers
 
-☁️ Cloud: AWS (EC2, S3, RDS, Lambda, IAM, VPC, Route53, CloudWatch, CodeBuild)
+<p align="left">
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Djenkins,gitlab,githubactions,docker,kubernetes,git" />
+</p>
 
-🏗️ IaC & Config: Terraform, Ansible
+📊 Monitoring & Web Servers
 
-🔄 CI/CD: Jenkins, GitLab CI/CD, GitHub Actions
+<p align="left">
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dprometheus,grafana,elasticsearch,nginx,apache" />
+</p>
 
-🐳 Containers: Docker, Kubernetes (EKS/Self-managed)
+🐍 Programming & Scripting
 
-📊 Monitoring: ELK Stack, Grafana, Prometheus
-
-🐍 Scripting: Python, Bash/Shell, YAML, JSON
-
-🌐 Servers: Nginx, Apache, Tomcat
-
-💼 Professional Experience
-
-Role
-
-Company
-
-Timeline
-
-DevOps Engineer
-
-Reali Solutions
-
-July 2023 - Jan 2024
-
-Cloud Support Associate
-
-Amazon
-
-Aug 2022 - Feb 2023
-
-DevOps Engineer
-
-Tech Mahindra
-
-Dec 2021 - July 2022
-
-Junior DevOps Engineer
-
-Karvy Insurance
-
-Feb 2020 - April 2021
+<p align="left">
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpython,bash" />
+</p>
 
 📊 My GitHub Stats
 
