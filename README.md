@@ -3,7 +3,7 @@
 🚀 **DevOps Engineer | AWS Cloud | CI/CD | Kubernetes**  
 📍 Hyderabad, India
 
-I’m a **DevOps Engineer with 3+ years of experience** building and operating **scalable, secure AWS-based infrastructure**.  
+I’m a **DevOps Engineer with 5+ years of experience** building and operating **scalable, secure AWS-based infrastructure**.  
 I focus on **automation, reliability, and cloud-native deployments**, helping teams ship faster and operate more efficiently.
 
 ---
