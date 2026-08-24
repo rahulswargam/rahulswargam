@@ -194,6 +194,86 @@ Welcome to rahul-swargam-prod, an on-call human.
 
 ---
 
+## 🎮 Play: Incident Commander
+
+<div align="center">
+
+![Difficulty](https://img.shields.io/badge/difficulty-production-critical?style=for-the-badge&logo=pagerduty&logoColor=white)
+![Players](https://img.shields.io/badge/players-you%20vs%20prod-blue?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+*A branching, click-to-expand DevOps incident simulator. No install, no JS, just `<details>` tags and bad decisions.*
+
+</div>
+
+<details>
+<summary><b>▶️ 03:14 AM — PagerDuty goes off. Click to start the incident.</b></summary>
+<br/>
+
+**🔴 ALERT:** `checkout-service` p99 latency is spiking. Error rate climbing. Customers can't check out.
+
+What's your first move?
+
+<details>
+<summary>A) Roll back the last deploy</summary>
+<br/>
+
+You run `kubectl rollout undo deployment/checkout-service`. Latency drops. Error rate flatlines.
+
+`+10 sanity` · `-5 ego (it wasn't even your deploy)`
+
+<details>
+<summary>▶️ Write the postmortem?</summary>
+<br/>
+
+You write a blameless postmortem. Root cause: an untested connection-pool change slipped past review.
+
+### 🏆 ENDING: Hero of the Incident
+Page closed in 12 minutes. You ship a canary check so this class of bug never reaches prod again.
+
+</details>
+</details>
+
+<details>
+<summary>B) Scale up the pods and hope</summary>
+<br/>
+
+You run `kubectl scale --replicas=20`. Latency improves slightly. Error rate doesn't move.
+
+Turns out it was never a capacity problem.
+
+<details>
+<summary>▶️ Check the logs?</summary>
+<br/>
+
+`kubectl logs -f` reveals a bad DB migration mid-flight, quietly locking rows.
+
+### 😅 ENDING: Survived, Barely
+47 minutes to resolution. "Check the logs before scaling" goes into the runbook, in bold.
+
+</details>
+</details>
+
+<details>
+<summary>C) SSH into prod and debug live, no safety net</summary>
+<br/>
+
+Bold. Risky. You forget to `tmux`. Your laptop sleeps. You lose your shell mid-fix.
+
+### 💀 ENDING: Game Over
+The incident review adds a new agenda item: *"no more cowboy debugging."*
+
+`+1 legend status in #incidents` · `-20 trust from your manager`
+
+</details>
+
+<br/>
+
+*Choose again by re-opening this section — production waits for no one.*
+
+</details>
+
+---
+
 ## 🌐 Connect With Me
 
 <div align="center">
