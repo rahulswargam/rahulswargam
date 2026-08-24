@@ -1,17 +1,45 @@
+<h1 align="center">Hey 👋 I'm Rahul — I ship infrastructure, not just apps</h1>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=900&color=00C853&center=true&vCenter=true&width=560&lines=DevOps+Engineer+%7C+AWS+%7C+CI%2FCD+%7C+Kubernetes;Hyderabad%2C+India+%F0%9F%93%8D" alt="Typing SVG" />
+</p>
+
+###
+
 <div align="center">
-
-```
-██████╗  █████╗ ██╗  ██╗██╗   ██╗██╗         ██████╗ ███████╗██╗   ██╗ ██████╗ ██████╗ ███████╗
-██╔══██╗██╔══██╗██║  ██║██║   ██║██║         ██╔══██╗██╔════╝██║   ██║██╔═══██╗██╔══██╗██╔════╝
-██████╔╝███████║███████║██║   ██║██║         ██║  ██║█████╗  ██║   ██║██║   ██║██████╔╝███████╗
-██╔══██╗██╔══██║██╔══██║██║   ██║██║         ██║  ██║██╔══╝  ╚██╗ ██╔╝██║   ██║██╔═══╝ ╚════██║
-██║  ██║██║  ██║██║  ██║╚██████╔╝███████╗    ██████╔╝███████╗ ╚████╔╝ ╚██████╔╝██║     ███████║
-╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝    ╚═════╝ ╚══════╝  ╚═══╝   ╚═════╝ ╚═╝     ╚══════╝
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=900&color=00C853&center=true&vCenter=true&multiline=true&repeat=true&width=780&height=100&lines=%24+whoami;rahul-swargam+%E2%80%94+devops+engineer;%24+kubectl+apply+-f+career.yaml;deployment.apps%2Frahul+configured+%E2%9C%94" alt="Typing SVG" />
-
+  <img src="https://skillicons.dev/icons?i=aws" height="55" alt="aws logo" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=terraform" height="55" alt="terraform logo" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=ansible" height="55" alt="ansible logo" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=jenkins" height="55" alt="jenkins logo" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=docker" height="55" alt="docker logo" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="55" alt="kubernetes logo" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=grafana" height="55" alt="grafana logo" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=git" height="55" alt="git logo" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=linux" height="55" alt="linux logo" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=bash" height="55" alt="bash logo" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=py" height="55" alt="python logo" />
 </div>
+
+###
+
+<div align="center">
+  <a href="https://www.rahulswargam.online" target="_blank"><img src="https://img.shields.io/static/v1?message=Portfolio&logo=googlechrome&label=&color=0A1AFF&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="portfolio" /></a>
+  <a href="https://www.linkedin.com/in/rahulswargam" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin" /></a>
+  <a href="https://github.com/rahulswargam" target="_blank"><img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="github" /></a>
+  <a href="mailto:swargamrahul@gmail.com"><img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="email" /></a>
+</div>
+
+###
 
 <div align="center">
 
