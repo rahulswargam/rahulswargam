@@ -25,31 +25,32 @@
 
 ---
 
-### `Jenkinsfile` — pipeline: rahul-swargam
+## 🗂️ My Career, As a Git History
 
-```groovy
-pipeline {
-    agent { label 'hyderabad-in' }
-
-    stages {
-        stage('Build') {
-            steps { echo 'Learned infra automation the hard way: 2 AM pages.' }
-        }
-        stage('Test') {
-            steps { sh 'validate --experience "5+ years" --domain "AWS, CI/CD, K8s"' }
-        }
-        stage('Deploy') {
-            steps { echo 'Ships infrastructure so teams can ship product.' }
-        }
-        stage('Monitor') {
-            steps { echo 'Dashboards open. Alerts on. Always watching.' }
-        }
-    }
-
-    post {
-        success { echo '✅ Available for interesting problems & new opportunities.' }
-    }
-}
+```mermaid
+gitGraph
+   commit id: "first-hello-world"
+   commit id: "learn-linux"
+   branch feature/aws
+   checkout feature/aws
+   commit id: "break-a-vpc"
+   commit id: "fix-the-vpc"
+   checkout main
+   merge feature/aws tag: "cloud-certified"
+   commit id: "automate-everything"
+   branch feature/kubernetes
+   checkout feature/kubernetes
+   commit id: "misread-a-yaml-indent"
+   commit id: "3am-page"
+   commit id: "actually-understand-k8s"
+   checkout main
+   merge feature/kubernetes tag: "v5.0-senior-instincts"
+   branch feature/open-to-work
+   checkout feature/open-to-work
+   commit id: "polish-resume"
+   commit id: "rewrite-this-readme"
+   checkout main
+   merge feature/open-to-work tag: "ready-to-ship"
 ```
 
 ---
@@ -74,29 +75,26 @@ flowchart LR
 
 ---
 
-## 🧭 `kubectl get profile rahul -o yaml`
+## 🖥️ `systemctl status rahul.service`
 
-```yaml
-apiVersion: devops/v1
-kind: Engineer
-metadata:
-  name: rahul-swargam
-  location: Hyderabad, India
-  labels:
-    role: devops-engineer
-    experience: 5-plus-years
-spec:
-  focus:
-    - automation
-    - reliability
-    - cloud-native-deployments
-  currentGoal: ship-faster-break-less
-status:
-  phase: Running
-  conditions:
-    - type: Available
-      status: "True"
-      reason: OpenToOpportunities
+```
+● rahul.service - DevOps Engineer, Hyderabad IN
+     Loaded: loaded (5+ years, enabled)
+     Active: active (running)
+
+┌───────────────────────────────────────────────┐
+│  SERVICE                    STATUS             │
+├───────────────────────────────────────────────┤
+│  ✅ coffee-supply            RUNNING            │
+│  ✅ ci-cd-pipelines          RUNNING            │
+│  ✅ curiosity.timer          RUNNING             │
+│  ✅ automate-the-boring-bits RUNNING            │
+│  ⚠️  sleep-schedule           DEGRADED          │
+│  ✅ open-to-opportunities    RUNNING            │
+└───────────────────────────────────────────────┘
+
+Aug 24 09:41:02 rahul systemd[1]: Started rahul.service.
+Aug 24 09:41:02 rahul kernel: production incident resolved before coffee got cold.
 ```
 
 ---
