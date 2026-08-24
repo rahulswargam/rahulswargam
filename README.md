@@ -1,36 +1,13 @@
-<h1 align="center">Hey 👋 I'm Rahul — I ship infrastructure, not just apps</h1>
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=900&color=00C853&center=true&vCenter=true&width=560&lines=DevOps+Engineer+%7C+AWS+%7C+CI%2FCD+%7C+Kubernetes;Hyderabad%2C+India+%F0%9F%93%8D" alt="Typing SVG" />
-</p>
-
-###
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=aws" height="55" alt="aws logo" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=terraform" height="55" alt="terraform logo" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=ansible" height="55" alt="ansible logo" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=jenkins" height="55" alt="jenkins logo" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=docker" height="55" alt="docker logo" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="55" alt="kubernetes logo" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=grafana" height="55" alt="grafana logo" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=git" height="55" alt="git logo" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=linux" height="55" alt="linux logo" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=bash" height="55" alt="bash logo" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=py" height="55" alt="python logo" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hey%20There!%20I'm%20Rahul&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Welcome%20to%20my%20corner%20of%20GitHub&descAlignY=55&descSize=18" width="100%"/>
+
 </div>
 
-###
+<p align="center">
+  <img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" width="32"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2600&pause=900&color=8A2BE2&center=true&vCenter=true&repeat=true&width=560&lines=Hi+there%2C+I'm+Rahul+Swargam;Thanks+for+stopping+by+%E2%9C%A8;Always+building+something+new;Glad+you+found+this+page+%F0%9F%91%80" alt="Typing SVG" />
+</p>
 
 <div align="center">
   <a href="https://www.rahulswargam.online" target="_blank"><img src="https://img.shields.io/static/v1?message=Portfolio&logo=googlechrome&label=&color=0A1AFF&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="portfolio" /></a>
@@ -39,153 +16,17 @@
   <a href="mailto:swargamrahul@gmail.com"><img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="email" /></a>
 </div>
 
-###
+<br/>
 
 <div align="center">
-
-![Build](https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge&logo=githubactions&logoColor=white)
-![Uptime](https://img.shields.io/badge/uptime-5%2B%20years-blue?style=for-the-badge&logo=statuspage&logoColor=white)
-![Env](https://img.shields.io/badge/environment-production-critical?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Status](https://img.shields.io/badge/status-works%20on%20my%20machine-yellow?style=for-the-badge&logo=docker&logoColor=white)
-![Coffee](https://img.shields.io/badge/fuel-coffee-6F4E37?style=for-the-badge&logo=buymeacoffee&logoColor=white)
-
+  <img src="https://komarev.com/ghpvc/?username=rahulswargam&style=for-the-badge&color=8A2BE2&label=VISITORS" alt="Profile Views"/>
 </div>
 
 ---
 
-## 🗂️ My Career, As a Git History
+<h2 align="center">🐍 My GitHub Snake</h2>
 
-```mermaid
-gitGraph
-   commit id: "first-hello-world"
-   commit id: "learn-linux"
-   branch feature/aws
-   checkout feature/aws
-   commit id: "break-a-vpc"
-   commit id: "fix-the-vpc"
-   checkout main
-   merge feature/aws tag: "cloud-certified"
-   commit id: "automate-everything"
-   branch feature/kubernetes
-   checkout feature/kubernetes
-   commit id: "misread-a-yaml-indent"
-   commit id: "3am-page"
-   commit id: "actually-understand-k8s"
-   checkout main
-   merge feature/kubernetes tag: "v5.0-senior-instincts"
-   branch feature/open-to-work
-   checkout feature/open-to-work
-   commit id: "polish-resume"
-   commit id: "rewrite-this-readme"
-   checkout main
-   merge feature/open-to-work tag: "ready-to-ship"
-```
-
----
-
-## 🔀 The Pipeline (a.k.a. how I got here)
-
-```mermaid
-flowchart LR
-    A[Learn] --> B[Build]
-    B --> C[Break Prod]
-    C --> D[3AM Page]
-    D --> E[Fix]
-    E --> F[Automate It<br/>So It Never Pages Again]
-    F --> G[Ship]
-    G --> H([Monitor])
-    H -->|feedback loop| A
-
-    style D fill:#e05252,stroke:#e05252,color:#fff
-    style F fill:#00C853,stroke:#00C853,color:#fff
-    style G fill:#2088FF,stroke:#2088FF,color:#fff
-```
-
----
-
-## 🖥️ `systemctl status rahul.service`
-
-```
-● rahul.service - DevOps Engineer, Hyderabad IN
-     Loaded: loaded (5+ years, enabled)
-     Active: active (running)
-
-┌───────────────────────────────────────────────┐
-│  SERVICE                    STATUS             │
-├───────────────────────────────────────────────┤
-│  ✅ coffee-supply            RUNNING            │
-│  ✅ ci-cd-pipelines          RUNNING            │
-│  ✅ curiosity.timer          RUNNING             │
-│  ✅ automate-the-boring-bits RUNNING            │
-│  ⚠️  sleep-schedule           DEGRADED          │
-│  ✅ open-to-opportunities    RUNNING            │
-└───────────────────────────────────────────────┘
-
-Aug 24 09:41:02 rahul systemd[1]: Started rahul.service.
-Aug 24 09:41:02 rahul kernel: production incident resolved before coffee got cold.
-```
-
----
-
-## 🛠 Tech Stack — CI/CD View
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-**☁️ Infra as Code**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-
-**🔄 CI/CD**
-
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</td>
-<td valign="top" width="50%">
-
-**🐳 Containers & Orchestration**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-**📊 Observability**
-
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![ELK](https://img.shields.io/badge/ELK-005571?style=for-the-badge&logo=elastic&logoColor=white)
-
-**💻 Scripting & OS**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</td>
-</tr>
-</table>
-
----
-
-## 📈 Live Metrics Dashboard
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=rahulswargam&show_icons=true&theme=react&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulswargam&theme=react&hide_border=true" alt="GitHub Streak" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulswargam&layout=compact&theme=react&hide_border=true" alt="Top Languages" height="165"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulswargam&theme=react-dark&hide_border=true" alt="Activity Graph" width="100%"/>
-
-</div>
-
-### 🐍 Deploying a snake to eat my own contribution graph
+<p align="center"><sub>a snake, eating my real contribution graph, one square at a time — regenerated nightly</sub></p>
 
 <div align="center">
 
@@ -195,118 +36,93 @@ Aug 24 09:41:02 rahul kernel: production incident resolved before coffee got col
   <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/rahulswargam/rahulswargam/output/github-contribution-grid-snake.svg" width="100%"/>
 </picture>
 
-<sub>generated nightly by <a href=".github/workflows/snake.yml">.github/workflows/snake.yml</a> — real CI/CD, eating real commit history</sub>
+</div>
+
+---
+
+<h2 align="center">📊 Activity</h2>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulswargam&theme=radical&hide_border=true&background=0d1117" alt="GitHub Streak" height="180"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulswargam&theme=react-dark&hide_border=true&bg_color=0d1117" alt="Activity Graph" width="100%"/>
 
 </div>
 
 ---
 
-<details>
-<summary>📜 <code>cat /etc/motd</code></summary>
-<br/>
-
-```
-Last login: today from 127.0.0.1
-Welcome to rahul-swargam-prod, an on-call human.
-
-  * "It's not a bug, it's an undocumented feature of the rollback."
-  * Uptime is a personality trait.
-  * Terraform plan reviewed twice. Applied once. Prayed always.
-  * Friday deploys require: passing tests, a rollback plan, and courage.
-  * # this incident is now a runbook
-```
-
-</details>
-
----
-
-## 🎮 Play: Incident Commander
+<h2 align="center">💬 Random Words of Wisdom</h2>
 
 <div align="center">
 
-![Difficulty](https://img.shields.io/badge/difficulty-production-critical?style=for-the-badge&logo=pagerduty&logoColor=white)
-![Players](https://img.shields.io/badge/players-you%20vs%20prod-blue?style=for-the-badge&logo=kubernetes&logoColor=white)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 
-*A branching, click-to-expand DevOps incident simulator. No install, no JS, just `<details>` tags and bad decisions.*
+<sub>refreshes with a new quote every time this page loads</sub>
 
 </div>
 
-<details>
-<summary><b>▶️ 03:14 AM — PagerDuty goes off. Click to start the incident.</b></summary>
-<br/>
-
-**🔴 ALERT:** `checkout-service` p99 latency is spiking. Error rate climbing. Customers can't check out.
-
-What's your first move?
-
-<details>
-<summary>A) Roll back the last deploy</summary>
-<br/>
-
-You run `kubectl rollout undo deployment/checkout-service`. Latency drops. Error rate flatlines.
-
-`+10 sanity` · `-5 ego (it wasn't even your deploy)`
-
-<details>
-<summary>▶️ Write the postmortem?</summary>
-<br/>
-
-You write a blameless postmortem. Root cause: an untested connection-pool change slipped past review.
-
-### 🏆 ENDING: Hero of the Incident
-Page closed in 12 minutes. You ship a canary check so this class of bug never reaches prod again.
-
-</details>
-</details>
-
-<details>
-<summary>B) Scale up the pods and hope</summary>
-<br/>
-
-You run `kubectl scale --replicas=20`. Latency improves slightly. Error rate doesn't move.
-
-Turns out it was never a capacity problem.
-
-<details>
-<summary>▶️ Check the logs?</summary>
-<br/>
-
-`kubectl logs -f` reveals a bad DB migration mid-flight, quietly locking rows.
-
-### 😅 ENDING: Survived, Barely
-47 minutes to resolution. "Check the logs before scaling" goes into the runbook, in bold.
-
-</details>
-</details>
-
-<details>
-<summary>C) SSH into prod and debug live, no safety net</summary>
-<br/>
-
-Bold. Risky. You forget to `tmux`. Your laptop sleeps. You lose your shell mid-fix.
-
-### 💀 ENDING: Game Over
-The incident review adds a new agenda item: *"no more cowboy debugging."*
-
-`+1 legend status in #incidents` · `-20 trust from your manager`
-
-</details>
-
-<br/>
-
-*Choose again by re-opening this section — production waits for no one.*
-
-</details>
-
 ---
 
-## 🌐 Connect With Me
+<h2 align="center">🔮 Click for a Fortune</h2>
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-0A1AFF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.rahulswargam.online)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rahul%20Swargam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahulswargam)
-[![Email](https://img.shields.io/badge/Email-swargamrahul%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swargamrahul@gmail.com)
+<details>
+<summary><b>🥠 Crack open a fortune cookie</b></summary>
+<br/>
+
+Pick a number between 1 and 6, then scroll — no peeking. 😄
+
+<details>
+<summary>1️⃣</summary>
+<br/>
+
+*"Today is a good day to ship something small."*
+
+</details>
+
+<details>
+<summary>2️⃣</summary>
+<br/>
+
+*"The bug you're chasing has been there since the beginning. Look closer."*
+
+</details>
+
+<details>
+<summary>3️⃣</summary>
+<br/>
+
+*"A great README won't fix bad code, but it will make people want to read it."*
+
+</details>
+
+<details>
+<summary>4️⃣</summary>
+<br/>
+
+*"Someone, somewhere, is about to star one of your repos. Keep building."*
+
+</details>
+
+<details>
+<summary>5️⃣</summary>
+<br/>
+
+*"You will find the answer right after you ask someone else for help."*
+
+</details>
+
+<details>
+<summary>6️⃣</summary>
+<br/>
+
+*"Good things come to those who commit often and push with confidence."*
+
+</details>
+
+</details>
 
 </div>
 
@@ -314,12 +130,8 @@ The incident review adds a new agenda item: *"no more cowboy debugging."*
 
 <div align="center">
 
-```bash
-$ echo "Thanks for stopping by. Now go check my repos before the build breaks."
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=fadeIn" width="100%"/>
 
-⭐ *Explore my repositories for real-world DevOps, cloud automation, and CI/CD implementations.*
-
-<img src="https://komarev.com/ghpvc/?username=rahulswargam&style=for-the-badge&color=00C853&label=PROFILE+VIEWS" alt="Profile Views"/>
+<sub>⭐ Thanks for scrolling all the way down — go explore my repositories!</sub>
 
 </div>
