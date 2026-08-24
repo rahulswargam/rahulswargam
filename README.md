@@ -1,5 +1,14 @@
 <div align="center">
 
+```
+██████╗  █████╗ ██╗  ██╗██╗   ██╗██╗         ██████╗ ███████╗██╗   ██╗ ██████╗ ██████╗ ███████╗
+██╔══██╗██╔══██╗██║  ██║██║   ██║██║         ██╔══██╗██╔════╝██║   ██║██╔═══██╗██╔══██╗██╔════╝
+██████╔╝███████║███████║██║   ██║██║         ██║  ██║█████╗  ██║   ██║██║   ██║██████╔╝███████╗
+██╔══██╗██╔══██║██╔══██║██║   ██║██║         ██║  ██║██╔══╝  ╚██╗ ██╔╝██║   ██║██╔═══╝ ╚════██║
+██║  ██║██║  ██║██║  ██║╚██████╔╝███████╗    ██████╔╝███████╗ ╚████╔╝ ╚██████╔╝██║     ███████║
+╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝    ╚═════╝ ╚══════╝  ╚═══╝   ╚═════╝ ╚═╝     ╚══════╝
+```
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=900&color=00C853&center=true&vCenter=true&multiline=true&repeat=true&width=780&height=100&lines=%24+whoami;rahul-swargam+%E2%80%94+devops+engineer;%24+kubectl+apply+-f+career.yaml;deployment.apps%2Frahul+configured+%E2%9C%94" alt="Typing SVG" />
 
 </div>
@@ -9,6 +18,7 @@
 ![Build](https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Uptime](https://img.shields.io/badge/uptime-5%2B%20years-blue?style=for-the-badge&logo=statuspage&logoColor=white)
 ![Env](https://img.shields.io/badge/environment-production-critical?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Status](https://img.shields.io/badge/status-works%20on%20my%20machine-yellow?style=for-the-badge&logo=docker&logoColor=white)
 ![Coffee](https://img.shields.io/badge/fuel-coffee-6F4E37?style=for-the-badge&logo=buymeacoffee&logoColor=white)
 
 </div>
@@ -40,6 +50,26 @@ pipeline {
         success { echo '✅ Available for interesting problems & new opportunities.' }
     }
 }
+```
+
+---
+
+## 🔀 The Pipeline (a.k.a. how I got here)
+
+```mermaid
+flowchart LR
+    A[Learn] --> B[Build]
+    B --> C[Break Prod]
+    C --> D[3AM Page]
+    D --> E[Fix]
+    E --> F[Automate It<br/>So It Never Pages Again]
+    F --> G[Ship]
+    G --> H([Monitor])
+    H -->|feedback loop| A
+
+    style D fill:#e05252,stroke:#e05252,color:#fff
+    style F fill:#00C853,stroke:#00C853,color:#fff
+    style G fill:#2088FF,stroke:#2088FF,color:#fff
 ```
 
 ---
@@ -128,6 +158,39 @@ status:
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulswargam&theme=react-dark&hide_border=true" alt="Activity Graph" width="100%"/>
 
 </div>
+
+### 🐍 Deploying a snake to eat my own contribution graph
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rahulswargam/rahulswargam/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rahulswargam/rahulswargam/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/rahulswargam/rahulswargam/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
+
+<sub>generated nightly by <a href=".github/workflows/snake.yml">.github/workflows/snake.yml</a> — real CI/CD, eating real commit history</sub>
+
+</div>
+
+---
+
+<details>
+<summary>📜 <code>cat /etc/motd</code></summary>
+<br/>
+
+```
+Last login: today from 127.0.0.1
+Welcome to rahul-swargam-prod, an on-call human.
+
+  * "It's not a bug, it's an undocumented feature of the rollback."
+  * Uptime is a personality trait.
+  * Terraform plan reviewed twice. Applied once. Prayed always.
+  * Friday deploys require: passing tests, a rollback plan, and courage.
+  * # this incident is now a runbook
+```
+
+</details>
 
 ---
 
