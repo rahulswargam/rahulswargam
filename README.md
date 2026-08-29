@@ -18,6 +18,8 @@
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
+</div>
+
 ## `// FEATURED_PROJECTS`
 
 > [!IMPORTANT]
@@ -35,11 +37,11 @@
 > Single-file, cross-platform CLI toolkit — arrow-key navigable, 15 tools for images, PDFs, and downloads.
 > `Python` `CLI`
 
+<div align="center">
+
 <img src="assets/divider.svg" width="100%" alt="" />
 
 ## `// SYSTEM_ANALYTICS`
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulswargam&theme=react-dark&bg_color=0d1117&color=58a6ff&line=22d3ee&point=c084fc&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rahulswargam/rahulswargam/output/github-contribution-grid-snake-dark.svg" />
@@ -53,8 +55,8 @@
 
 <table>
 <tr>
-<td width="50%"><img src="https://github-readme-stats.vercel.app/api?username=rahulswargam&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=c084fc&icon_color=22d3ee&text_color=8b949e&border_color=30363d&hide_border=true&count_private=true" width="100%" alt="GitHub Stats" /></td>
-<td width="50%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulswargam&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=c084fc&icon_color=22d3ee&text_color=8b949e&border_color=30363d&hide_border=true" width="100%" alt="Top Languages" /></td>
+<td width="50%"><img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=rahulswargam&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=c084fc&icon_color=22d3ee&text_color=8b949e&border_color=30363d&hide_border=true&count_private=true" width="100%" alt="GitHub Stats" /></td>
+<td width="50%"><img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=rahulswargam&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=c084fc&icon_color=22d3ee&text_color=8b949e&border_color=30363d&hide_border=true" width="100%" alt="Top Languages" /></td>
 </tr>
 </table>
 
