@@ -67,6 +67,11 @@
 ## `// RECENT_ACTIVITY`
 
 <!--START_SECTION:activity-->
+1. 🚀 Published release [v5.0.1](https://github.com/rahulswargam/ImagePDFToolkit/releases/tag/v5.0.1) in [rahulswargam/ImagePDFToolkit](https://github.com/rahulswargam/ImagePDFToolkit)
+2. 🚀 Published release [v5.0.0](https://github.com/rahulswargam/ImagePDFToolkit/releases/tag/v5.0.0) in [rahulswargam/ImagePDFToolkit](https://github.com/rahulswargam/ImagePDFToolkit)
+3. 🚀 Published release [v4.3.0 — Home page redesign](https://github.com/rahulswargam/ImagePDFToolkit/releases/tag/v4.3.0) in [rahulswargam/ImagePDFToolkit](https://github.com/rahulswargam/ImagePDFToolkit)
+4. 🚀 Published release [v4.2.0 — Smart Home suggestions, FileForge file naming](https://github.com/rahulswargam/ImagePDFToolkit/releases/tag/v4.2.0) in [rahulswargam/ImagePDFToolkit](https://github.com/rahulswargam/ImagePDFToolkit)
+5. 🚀 Published release [v4.1.0 — PDF to Word](https://github.com/rahulswargam/ImagePDFToolkit/releases/tag/v4.1.0) in [rahulswargam/ImagePDFToolkit](https://github.com/rahulswargam/ImagePDFToolkit)
 <!--END_SECTION:activity-->
 
 <sub>auto-refreshed every 6 hours by <a href=".github/workflows/activity.yml">.github/workflows/activity.yml</a></sub>
