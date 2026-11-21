@@ -67,7 +67,7 @@
 ## `// RECENT_ACTIVITY`
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v5.0.1](https://github.com/rahulswargam/ImagePDFToolkit/releases/tag/v5.0.1) in [rahulswargam/ImagePDFToolkit](https://github.com/rahulswargam/ImagePDFToolkit)
+1. 🚀 Published release [Rahul's Toolbox v3.3.0](https://github.com/rahulswargam/ToolboxCLI/releases/tag/v3.3.0) in [rahulswargam/ToolboxCLI](https://github.com/rahulswargam/ToolboxCLI)
 2. 🚀 Published release [v5.0.0](https://github.com/rahulswargam/ImagePDFToolkit/releases/tag/v5.0.0) in [rahulswargam/ImagePDFToolkit](https://github.com/rahulswargam/ImagePDFToolkit)
 3. 🚀 Published release [v4.3.0 — Home page redesign](https://github.com/rahulswargam/ImagePDFToolkit/releases/tag/v4.3.0) in [rahulswargam/ImagePDFToolkit](https://github.com/rahulswargam/ImagePDFToolkit)
 4. 🚀 Published release [v4.2.0 — Smart Home suggestions, FileForge file naming](https://github.com/rahulswargam/ImagePDFToolkit/releases/tag/v4.2.0) in [rahulswargam/ImagePDFToolkit](https://github.com/rahulswargam/ImagePDFToolkit)
